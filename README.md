@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilofek
 - 👀 I’m interested in as you can see coding and cycling.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning python at my school.
 - 📫 How to reach me: Write an email on: 06ilof@gmail.com
 
 <!---
